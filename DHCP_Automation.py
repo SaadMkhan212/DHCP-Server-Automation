@@ -1,3 +1,9 @@
+##################################
+#Saad Khan
+#Networking Automation Script with Python.
+#The Script installs and configures the DHCP Server on Ubuntu/Debian Systems.
+#It installs the dhcp server package and prompts the user to enter in the range, subnet, interface.
+##################################
 import os
 import subprocess
 
